@@ -2,3 +2,4 @@ oranges
 bread
 humus
 dog toys
+bones
