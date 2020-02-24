@@ -3,4 +3,5 @@ bread
 falafel
 humus
 dog toys
-bones
+treats
+pillow
