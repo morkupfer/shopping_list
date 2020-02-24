@@ -3,3 +3,4 @@ bread
 humus
 dog toys
 bones
+treats
